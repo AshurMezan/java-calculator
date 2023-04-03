@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf813d5e-6f8b-461e-abe0-5da9f3aec5f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java-Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +29,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/alfar/OneDrive/Рабочий стол/Работа/Тренировака/Java/Java-Calculator"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alfar/OneDrive/Рабочий стол/Работа/Тренировака/Java/Java-Calculator&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Condition">
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator.Condition" />
       <module name="Java-Calculator" />
@@ -84,9 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Condition" />
         <item itemvalue="Application.If" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +107,10 @@
       <workItem from="1676741182999" duration="2050000" />
       <workItem from="1677485746805" duration="3000" />
       <workItem from="1679306246202" duration="1272000" />
+      <workItem from="1679467267495" duration="9000" />
+      <workItem from="1680076298687" duration="270000" />
+      <workItem from="1680180053949" duration="222000" />
+      <workItem from="1680515846867" duration="342000" />
     </task>
     <servers />
   </component>
